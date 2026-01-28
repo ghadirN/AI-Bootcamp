@@ -14,5 +14,5 @@ The datasets are loaded from Google Drive when running the notebook in Google Co
 1. Open the notebook in Google Colab
 2. Mount Google Drive
 3. Place datasets in:
-   ML_Compatibility_Project_Data/
+   ML_LinkedIn_project/
 4. Run all cells
